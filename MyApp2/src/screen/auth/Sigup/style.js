@@ -1,0 +1,30 @@
+import {StyleSheet } from 'react-native'
+export const style = StyleSheet.create({
+ container:{
+    paddingTop:24,
+    paddingLeft:15,
+    paddingRight:15,
+ },
+ magrin:{
+    marginTop:20,
+ },
+ checkRow:{
+   flexDirection:'row',
+   alignItems:'center',
+ },
+ checkText:{
+   color:'#4F63AC',
+   marginHorizontal:13,
+ },
+ button:{
+   marginVertical:20,
+ },
+ footerText:{
+  color:'#4F63AC',
+  marginBottom:56,
+  textAlign:'center',
+ },
+  footerlink:{
+    fontWeight:'bold',
+  },
+});
