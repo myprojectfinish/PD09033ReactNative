@@ -1,7 +1,7 @@
 import {StyleSheet } from 'react-native'
 export const style = StyleSheet.create({
  container:{
-    paddingTop:24,
+    paddingTop:34,
     paddingLeft:15,
     paddingRight:15,
  },

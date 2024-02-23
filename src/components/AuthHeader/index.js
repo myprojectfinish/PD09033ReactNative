@@ -1,10 +1,10 @@
 import React from 'react';
 import { Pressable, View,Image,Text} from 'react-native';
 import { style } from '../AuthHeader/style';
-const authHeader =({title,onBackPress}) =>{
+const AuthHeader =({title,onPress}) =>{
     return(
         <View style={style.container}>
-            <Pressable onBackPress={onBackPress}>
+            <Pressable onPress={onPress}>
                 <Image
                 style={style.iconBack}
                 source={require('../../assets/icons/icon.png')}></Image>
@@ -13,4 +13,4 @@ const authHeader =({title,onBackPress}) =>{
         </View>
     );
 };
-export default authHeader;
+export default AuthHeader;

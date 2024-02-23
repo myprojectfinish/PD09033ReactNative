@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "name": "Nguyen Van",
+      "email": "meonvpd09033@gmail.com",
+      "id": "1"
+    },
+    {
+      "name": "Nguyen Van Dung",
+      "email": "dungnvpd09034@gmail.com",
+      "password": "Anhoenycu!",
+      "id": "2"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "title": "Popular",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.6GHvGFJvbmo5Nf8b_I9g8AHaHa&pid=Api&P=0&h=220"
+    },
+    {
+      "id": "2",
+      "title": "Chair",
+      "image": "https://cdn2.iconfinder.com/data/icons/education-and-school-26/512/chair-512.png"
+    },
+    {
+      "id": "3",
+      "title": "Table",
+      "image": "https://cdn1.iconfinder.com/data/icons/amenities/500/table-512.png"
+    },
+    {
+      "id": "4",
+      "title": "Armchair",
+      "image": "https://static.thenounproject.com/png/826744-200.png"
+    },
+    {
+      "id": "5",
+      "title": "Bed",
+      "image": "https://cdn-icons-png.flaticon.com/512/3030/3030336.png"
+    },
+    {
+      "id": "6",
+      "title": "Lamp",
+      "image": "https://cdn2.iconfinder.com/data/icons/furniture-63/24/_standing_lamp-512.png"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "title": "Black Simple Lamp",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/b/l/1100x1210/black-fabric-shade-table-lamp-with-black-base-by-new-era-black-fabric-shade-table-lamp-with-black-ba-byfhf6.jpg",
+      "category": 1,
+      "price": "$20.00",
+      "details": "Đương đầu với một trở ngại lớn, anh chàng quyết định không từ bỏ mà tiếp tục hành động với quyết tâm cao độ.",
+      "status": "0"
+    },
+    {
+      "id": "2",
+      "title": "Minimal Stand",
+      "image": "http://cdn.home-designing.com/wp-content/uploads/2019/04/Scandinavian-Style-Wooden-TV-Stand-With-Metal-Legs-Minimalist-Console-Handmade-Wood.jpg",
+      "category": 2,
+      "price": "$25.00",
+      "details": "Đương đầu với một trở ngại lớn, anh chàng quyết định không từ bỏ mà tiếp tục hành động với quyết tâm cao độ.",
+      "status": "1"
+    },
+    {
+      "id": "3",
+      "title": "Coffe chair",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.J5GRc-o0ykxHLV6AXJb1cQHaHa&pid=Api&P=0&h=220",
+      "category": 3,
+      "price": "$20.00",
+      "details": "Đương đầu với một trở ngại lớn, anh chàng quyết định không từ bỏ mà tiếp tục hành động với quyết tâm cao độ.",
+      "status": "0"
+    },
+    {
+      "id": "4",
+      "title": "Simple Desk",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/_/i_7144_1.jpg",
+      "category": 4,
+      "price": "$50.00",
+      "details": "Đương đầu với một trở ngại lớn, anh chàng quyết định không từ bỏ mà tiếp tục hành động với quyết tâm cao độ.",
+      "status": "0"
+    },
+    {
+      "id": "5",
+      "title": "Black Simple Lamp",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/b/l/1100x1210/black-fabric-shade-table-lamp-with-black-base-by-new-era-black-fabric-shade-table-lamp-with-black-ba-byfhf6.jpg",
+      "category": 1,
+      "price": "$20.00",
+      "details": "Đương đầu với một trở ngại lớn, anh chàng quyết định không từ bỏ mà tiếp tục hành động với quyết tâm cao độ.",
+      "status": "0"
+    }
+  ]
+}

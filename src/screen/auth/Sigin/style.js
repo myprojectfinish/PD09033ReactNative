@@ -1,7 +1,9 @@
 import { StyleSheet } from 'react-native';
 export const style = StyleSheet.create({
     container:{
-        padding:10,
+       marginTop:34,
+       marginLeft:15,
+       marginRight:15,
     },
     button:{
         marginVertical:10,
@@ -14,5 +16,7 @@ export const style = StyleSheet.create({
     footerlink:{
           fontWeight:'bold',
     },
-
+    margin:{
+        marginTop:20,
+    }
 });

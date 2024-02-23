@@ -16,7 +16,6 @@ return(
         <Text style={[style.title,style.innerTitle]}>All you need</Text>
         <Text style={style.title}>Here!</Text>
         </View>
-
         <Button title={`Sign Up`}
         onPress={() => navigation.navigate('Signup')}></Button>
         <Pressable  onPress={() => navigation.navigate('Signin')}> 

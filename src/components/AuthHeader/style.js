@@ -5,9 +5,9 @@ export const style = StyleSheet.create({
     alignItems:'center',
  },
  iconBack:{
-    width:18,
+    width:22,
     height:18,
-    marginLeft:10,
+    marginLeft:0,
     marginTop:10,
  },
  title:{

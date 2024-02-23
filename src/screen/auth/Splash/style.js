@@ -1,13 +1,12 @@
 import { StyleSheet } from "react-native";
 export const style = StyleSheet.create({
     container: {
-    padding: 24,
+    padding:10,
     flexDirection:'column',
     justifyContent:'center',
     alignItems:'center',
     borderWidth:1,
     height:'100%',
-
 },
 img: {
   width: '100%',
@@ -29,6 +28,7 @@ footerText: {
   textAlign: 'center',
   fontSize: 16,
   fontWeight: 'bold',
+  marginTop:10,
 },
 titlecontainer:{
     marginVertical:54,
